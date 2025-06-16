@@ -1,6 +1,7 @@
 h1{
-    color: red
+    color: black;
+    text-align: center;
 }
 body{
-    background-color: lightblue;
+    background-color: rgb(181, 230, 173);
 }
